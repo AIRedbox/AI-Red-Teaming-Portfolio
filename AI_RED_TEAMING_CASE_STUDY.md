@@ -1,7 +1,7 @@
 # Case Study: AI Model Collapse via Iterative Negative Feedback
 
-**Candidate:** [Ваше Ім'я]
-**Date:** [Поточна Дата]
+**Candidate:** [Vova - Redbox]
+**Date:** [18.10.2025]
 **Target System:** Google's Gemini Large Language Model (integrated into Firebase Studio Prototyper)
 
 ---
